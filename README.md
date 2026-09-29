@@ -7,6 +7,10 @@ This project contains two connected tasks:
 - **Task 1:** Exploratory Data Analysis and data cleaning of the Auto MPG dataset.
 - **Task 2:** Linear Regression models to predict `mpg` using the cleaned dataset from Task 1.
 
+## GOOGLE COLAB LINKS OF THE TASKS
+
+**Task1:** https://colab.research.google.com/drive/1wILlm1xn3TdZppCgl2KWdhM1TQ0pjVYQ?usp=sharing
+**Task2:**https://colab.research.google.com/drive/1KDapzKtE2jbX0P3Njj-XwngjMZW7zJPR?usp=sharing 
 ### Workflow
 
 ```text
